@@ -3,7 +3,6 @@
 - 🌱 I’m currently honing my skills as a WordPress developer.
 - 💞️ I’m looking to collaborate on any simple projects.
 - 📫 Reach me at hellokarisa.com
-- 😄 Pronouns: she/her
 
 <!---
 kari-x/kari-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
